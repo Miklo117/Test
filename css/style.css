@@ -1,0 +1,16 @@
+html body{
+    color: #d57c06;
+    background-color: #222; !important
+}
+.menuItem {
+    color: #FFF;
+    height: 30px;
+    text-align: center;
+    padding-top: 5px;
+}
+.menuItem :hover {
+	background-color: #FFF;
+}
+.menu, .menuItem {
+	background-color: #595900;
+}
